@@ -1,0 +1,31 @@
+{
+  "name": "babikoz",
+  "version": "0.1.5",
+  "description": "Android App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ejs": "2.3.3",
+    "express": "4.13.3",
+    "mongoose" : "~3.8.3",
+    "connect": "~2.14.5",
+    "request": "2.36.0"
+  },
+  "engines": {
+    "node": "0.12.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git@heroku.com:babikoz.git"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "MIT",
+  "devDependencies": {},
+  "author": "M. Sani Boubacar Sanda"
+}

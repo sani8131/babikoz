@@ -1,0 +1,7 @@
+{
+  "name": "heroku_s2dvspj2",
+  "description": "Chat App",
+  "repository": "https://git@heroku.com:babikoz.git",
+  "keywords": ["node", "express", "static"],
+  "image": "heroku/nodejs"
+}
