@@ -1,6 +1,6 @@
 {
   "name": "babikoz",
-  "version": "0.1.5",
+  "version": "3.3.6",
   "description": "Android App",
   "main": "server.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "express": "4.13.3"
   },
   "engines": {
-    "node": ""
+    "node": "5.0.0"
   },
   "repository": {
     "type": "git",
